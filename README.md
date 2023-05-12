@@ -123,10 +123,12 @@ Wait for the text **Initialisation complete ...** to appear and then open anothe
     Country: England
 
 
+The routine indexsrch utilises the indexes to attain town, region and country data
+
 ## Reference
 
 https://yottadb.com/
 
-The routine indexsrch utilises the indexes to attain town, region and country data
+
 
 
